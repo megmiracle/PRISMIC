@@ -1,2 +1,2 @@
 # lean-space
-shiname
+PRISMIC
